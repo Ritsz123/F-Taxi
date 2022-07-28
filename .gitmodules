@@ -1,0 +1,9 @@
+[submodule "F-Taxi-rider"]
+	path = F-Taxi-rider
+	url = https://github.com/Ritsz123/F-Taxi-rider.git
+[submodule "F-Taxi-driver"]
+	path = F-Taxi-driver
+	url = https://github.com/Ritsz123/F-Taxi-driver.git
+[submodule "Ftaxi-backend-express"]
+	path = Ftaxi-backend-express
+	url = https://github.com/Ritsz123/Ftaxi-backend-express.git
